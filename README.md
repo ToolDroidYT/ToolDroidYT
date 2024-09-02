@@ -2,7 +2,7 @@
 > Kapoy og edit.
 > Sunod nalang pag ako na iyang pilion
 
-BTW. naka private halos tanan akong projects/repos for unknown reasons
+BTW. naka private ang uban projects/repos for unknown reasons
 
 <!--
 **ToolDroidYT/ToolDroidYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
