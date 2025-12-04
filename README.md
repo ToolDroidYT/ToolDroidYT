@@ -41,9 +41,9 @@ I build ~~useful~~ apps and explore new technology. I ~~enjoy writing clean code
 
 | Project | Status | Type |
 | :--- | :--- | :--- |
-| **ToolDroid** | Active | Utility |
-| **ByteHaven** | Live | Platform |
-| **KeyCodes** | Stable | Tool |
+| **ToolDroid** | Discontinued | Mod |
+| **ByteHaven** | In Development | Utility |
+| **KeyCodes** | Beta (development paused) | Tool |
 
 <br/>
 
