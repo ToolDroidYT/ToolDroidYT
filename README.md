@@ -19,8 +19,6 @@ Building software since 2020 · Earth
 
 </div>
 
----
-
 ## About
 
 <div align="center">
@@ -56,8 +54,6 @@ Whether building web platforms, native mobile applications, or developer utiliti
   </tr>
 </table>
 
----
-
 ## Highlights
 
 <div align="center">
@@ -67,8 +63,6 @@ Whether building web platforms, native mobile applications, or developer utiliti
 | <img src="https://img.shields.io/badge/20+-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="20+"><br><strong>Projects Built</strong><br><sub>Web apps, mobile apps, tools, and utility software</sub> | <img src="https://img.shields.io/badge/5+-years-000000?style=for-the-badge&logo=clockify&logoColor=white" alt="5+"><br><strong>Years Building</strong><br><sub>Hands-on software development since 2020</sub> | <img src="https://img.shields.io/badge/64+-repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="64+"><br><strong>Repositories</strong><br><sub>Projects and personal experiments</sub> |
 
 </div>
-
----
 
 ## Tech Stack
 
@@ -115,8 +109,6 @@ Whether building web platforms, native mobile applications, or developer utiliti
 
 </div>
 
----
-
 ## Current Focus
 
 <div align="center">
@@ -126,8 +118,6 @@ Whether building web platforms, native mobile applications, or developer utiliti
 | Developer tooling & utilities | **Go** · **Python** · **Reverse Engineering** | Distributed systems · SaaS · Performance optimization |
 
 </div>
-
----
 
 ## Connect
 
@@ -141,8 +131,6 @@ Whether building web platforms, native mobile applications, or developer utiliti
 <a href="mailto:me@tooldroid.dev"><img src="https://img.shields.io/badge/me@tooldroid.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
-
----
 
 ## Activity
 
